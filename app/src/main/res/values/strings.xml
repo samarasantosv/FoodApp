@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="foodbuild">Foodbuild</string>
+    <string name="food_delivery_app">Food Delivery App</string>
+    <string name="get_start">Get Start</string>
+    <string name="welcome_text">Hi Lorena</string>
+    <string name="field_search_bar"><![CDATA[Order & Eat]]></string>
+    <string name="hint_search_bar">Find Your Food</string>
+    <string name="ad_title">Free Delivery</string>
+    <string name="ad_subtitle">17 Aug - 10 Set</string>
+    <string name="ad_button_text">Order now</string>
+</resources>
